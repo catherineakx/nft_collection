@@ -3,9 +3,9 @@
 ---
 
 ### Background
-With the trading of NFTs (non-fungible tokens) becoming more and more popular, I wanted to understand how I can go about creating my own NFT collection using Python.
+With the trading of NFTs (non-fungible tokens) becoming more and more popular, I wanted to understand how I could go about creating my own NFT collection using Python.
 
-It seems that unique images can be formed by putting together different traits. 
+It seemed that unique images could be formed by combining different traits together.
 
 ---
 
